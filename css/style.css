@@ -797,3 +797,8 @@ font-style: normal;
   margin-top: 150px;
 }
 
+button {
+  text-decoration: none;
+  border: none;
+  background: none;
+}
